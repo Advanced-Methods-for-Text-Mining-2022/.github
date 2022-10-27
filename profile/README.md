@@ -1,6 +1,6 @@
 ## Hello there 
 
-This is the official GitHub repository for the course Advanced Methods for Text Mining at the Bonn-Aachen International Center for Information Technology, offered to students of University of Bonn and RWTH Aachen University.
+This is the official GitHub page for the course Advanced Methods for Text Mining at the Bonn-Aachen International Center for Information Technology, offered to students of University of Bonn and RWTH Aachen University.
 
 You can find the official course website at: https://sites.google.com/view/am4tm
 
