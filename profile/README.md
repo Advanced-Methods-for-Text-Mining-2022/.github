@@ -12,6 +12,8 @@ Besides being a collection of characters, text is up util now still considered t
 
 ## News
 
+**[02.11.22]** Slides of the first exercise session (NLP Basics) are online
+
 **[27.10.22]** Slides of the first lecture are online
 
 **[22.09.22]** In this semester the course on Advanced Methods for Text Mining will be taught for the University of Bonn as well as the RWTH students at the Bonn-Aachen International Center for Information Technology (B-IT) in Friedrich-Hirzebruch-Allee 6, 53115 Bonn, Germany. Due to introductory events at the B-IT for the newcomers, the first lecture will take place on the 27.10.22 at 14:00 in the lecture hall (ger. Hörsaal) 0.109. If you are interested in taking this course, there will be two registration periods. First period for content- and mailing-list registration ends on 30.11.22 at 9:30 (CEST). In order to get access to the course material (as well as information about the lecture hall, exercise sheets and etc.) and get added to the mailing list, the students are asked to send their names, email addresses, matriculation numbers and their study programs (e.g. M.Sc. in Media Informatics) to bit.am4tm@gmail.com (only mails from university email addresses will be considered). The mail should be titled as Registration WS2223 and the content should have the student's information in one line formatted in a comma-separated fashion: MATRICULATION_NUMBER, UNIVERSITY_EMAIL, NAME, SURNAME, PROGRAM (e.g. 12345,jamie.mustermann@my-university.de,Jamie,Mustermann, M.Sc. in Media Informatics). The second and the final registration period will end on 10.12.22 at 9:30 (CEST). The students will receive an email informing them about the course after the end of each registration period.
