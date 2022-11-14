@@ -12,6 +12,8 @@ Besides being a collection of characters, text is up util now still considered t
 
 ## News
 
+**[14.11.22]** Slides of the second exercise session (ML Basics) are online
+
 **[02.11.22]** Slides of the first exercise session (NLP Basics) are online
 
 **[27.10.22]** Slides of the first lecture are online
