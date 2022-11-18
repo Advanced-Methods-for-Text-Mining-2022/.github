@@ -12,6 +12,8 @@ Besides being a collection of characters, text is up util now still considered t
 
 ## News
 
+**[17.11.22]** First Assignment is online. Remember that the deadline is the December 1st, 2022, at 12:15 (right before the exercise session).
+
 **[16.11.22]** Slides of the second lecture (Preliminaries: Machine Learning and Optimization 1) are online
 
 **[14.11.22]** Slides of the second exercise session (ML Basics) are online
