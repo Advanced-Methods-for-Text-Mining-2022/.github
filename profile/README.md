@@ -12,6 +12,8 @@ Besides being a collection of characters, text is up util now still considered t
 
 ## News
 
+**[23.11.22]** Slides of the third exercise session (Backpropagation) are online. The time slots for lecture and exercise session are swapped tomorrow, thus the lecture is going to start at 12:15 and the exercise session is going to start at 14:00.
+
 **[17.11.22]** First Assignment is online. Remember that the deadline is the December 1st, 2022, at 12:15 (right before the exercise session).
 
 **[16.11.22]** Slides of the second lecture (Preliminaries: Machine Learning and Optimization 1) are online
