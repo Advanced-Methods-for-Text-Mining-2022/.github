@@ -10,6 +10,10 @@ Besides being a collection of characters, text is up util now still considered t
 
 **Prerequisites:** Basic knowledge of AI, data science, machine learning, and pattern recognition; programming skills; good working knowledge in statistics, linear algebra, and optimization. Having taken the related B-IT courses Mining Media Data I and Mining Media Data II is not a must. The course has 4-ETCS credits (with 2+2 SWS) and is taught by Dr. Rafet Sifa. The teaching assistant of the course will be Tobias Deußer. One week prior to each lecture a list of recommended readings (from text books, reports and research papers) related to the course work will be announced. For questions as well as the registration (see the news below) please write to bit.am4tm@gmail.com.
 
+## Exam
+
+The exam is on February 2nd, 2023, at 12 in room b.it 0.109. Be there early!
+
 ## News
 
 **[01.12.22]** Second Assignment is online. Remember that the deadline is the December 15th, 2022, at 12:15 (right before the exercise session).
